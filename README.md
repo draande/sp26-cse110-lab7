@@ -1,6 +1,6 @@
 # **Team: Hemendra Ande**
 
-# **THE SCREENSHOT OF ALL TESTS PASSED IS IN results/all-tests-passed.png**
+# **The screenshot of all-tests-passed is in results/all-tests-passed.png**
 
 1) Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why.
 
@@ -18,8 +18,4 @@
 
 4) Name three things we could do to improve the CSE 110 shop site based on the Lighthouse results.
 
-    I would add a language attribute to the html tag so screen readers know the page language. (lang="en" in <html>) 
-
-    I would add a meta description (<meta name="description" content="..."> in <head>) so search engines can display a better summary of the site. 
-
-    I would also optimize the CSS by inlining critical styles directly into the document head or even by deferring non-essential CSS so that the browser paints the UI even faster. The page will load even faster and blocks less during rendering.
+    I would add a language attribute to the html tag so screen readers know the page language. ('lang="en"' in 'html'). Another thing is I would add a meta description ('meta name="description" content="..."' in 'head') so search engines can display a better summary of the site. Lastly, I would also optimize the CSS by inlining critical styles directly into the document head or even by deferring non-essential CSS so that the browser paints the UI even faster. The page will load even faster and blocks less during rendering.
